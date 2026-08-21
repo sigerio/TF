@@ -1,0 +1,3 @@
+[submodule "ANA-IEC104"]
+	path = ANA-IEC104
+	url = git@github.com:sigerio/ANA-IEC104.git
