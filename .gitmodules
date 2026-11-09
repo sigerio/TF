@@ -5,3 +5,6 @@
 	path = TF-WORK
 	url = git@github.com:sigerio/TF-WORK.git
 	branch = main
+[submodule "own-debug-tool"]
+	path = own-debug-tool
+	url = git@github.com:sigerio/own-debug-tool.git
