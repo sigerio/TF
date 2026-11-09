@@ -1,3 +1,15 @@
 [submodule "ANA-IEC104"]
 	path = ANA-IEC104
 	url = git@github.com:sigerio/ANA-IEC104.git
+[submodule "xj_jc"]
+	path = xj_jc
+	url = git@github.com:sigerio/TF-WORK.git
+	branch = xj_jc
+[submodule "sun_control"]
+	path = sun_control
+	url = git@github.com:sigerio/TF-WORK.git
+	branch = sun_control
+[submodule "wether"]
+	path = wether
+	url = git@github.com:sigerio/TF-WORK.git
+	branch = wether
